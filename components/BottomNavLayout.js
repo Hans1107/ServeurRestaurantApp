@@ -11,9 +11,9 @@ export default function BottomNavLayout({ onTabPress }) {
   const tabs = [
     { key: 'Accueil', icon: HouseIcon },
     { key: 'Menu', icon: MenuIcon },
-    { key: 'Nouvelle Commande', icon: NewCommandeIcon },
-    { key: 'Historiques', icon: CalendarCheckIcon },
-    { key: 'Commandes', icon: CommandeIcon },
+    { key: 'Nouvelle commande', icon: NewCommandeIcon },
+    { key: 'Historique', icon: CalendarCheckIcon },
+    { key: 'Commande', icon: CommandeIcon },
   ];
 
   return (
