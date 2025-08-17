@@ -1,5 +1,6 @@
 // eslint-disable-next-line import/no-unresolved
 import React from "react";
+import "../global.css"
 import { StatusBar, } from "react-native";
 import LoginScreen from "./(tabs)/screens/login";
 import HomePage from "./(tabs)/screens/homePage";

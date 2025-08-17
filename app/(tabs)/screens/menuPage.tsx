@@ -148,7 +148,7 @@ export default function MenuPage() {
                                 </View>
                                 
                                 <View style={styles.quantityContainer}>
-                                    <TouchableOpacity 
+                                    <TouchableOpacity
                                         style={styles.quantityButton}
                                         onPress={() => handleDecrement(index)}
                                     >
